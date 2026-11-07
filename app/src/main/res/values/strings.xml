@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Forbidden Library</string>
+    <string name="intro_title">FORBIDDEN LIBRARY</string>
+    <string name="intro_subtitle">Explore the boundaries of knowledge.</string>
+    <string name="intro_instruction">Drag to explore · Pinch/Scroll to zoom · Tap a book · Double-tap to focus</string>
+    <string name="skip_intro">SKIP INTRO</string>
+    <string name="enter_archive">ENTER ARCHIVE</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_countries">Countries</string>
+    <string name="nav_timeline">Timeline</string>
+    <string name="nav_categories">Categories</string>
+    <string name="nav_about">About</string>
+    <string name="search_placeholder">Search title, author, country, keyword…</string>
+    <string name="reset_camera">Reset Camera</string>
+    <string name="toggle_hud">Immersive View</string>
+    <string name="add_record">Add Verified Record</string>
+    <string name="quality_mode">Render Quality</string>
+    <string name="demo_badge">DEMONSTRATION ARCHIVE RECORD</string>
+    <string name="verified_badge">USER-SUBMITTED VERIFIED RECORD</string>
+    <string name="historical_background">Historical Context</string>
+    <string name="censorship_status">Restriction &amp; Censorship Status</string>
+    <string name="source_reference">Archival Source &amp; Reference</string>
+    <string name="focus_camera">Focus in 3D Rotunda</string>
+    <string name="clear_filters">Reset All Filters</string>
+</resources>

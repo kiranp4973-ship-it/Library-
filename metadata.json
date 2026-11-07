@@ -1,0 +1,6 @@
+{
+  "name": "Forbidden Library",
+  "description": "Immersive 3D digital museum and futuristic archive exploring censored, restricted, and historically pivotal books across the world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
